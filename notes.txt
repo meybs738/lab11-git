@@ -3,3 +3,4 @@ Ideas: compare phone contracts.
 ok
 Ideas: cancel the magazine.
 line 1
+line 2
