@@ -2,3 +2,4 @@ Ideas: track groceries separately.
 Ideas: compare phone contracts.
 ok
 Ideas: cancel the magazine.
+line 1
